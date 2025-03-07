@@ -1,7 +1,7 @@
 import streamlit as st
 import numpy as np
 import pandas as pd
-from sklearn.preprocessing import StandardScaler, LabelEncoder
+from  sklearn.preprocessing import StandardScaler,LabelEncoder
 from tensorflow.keras.models import load_model
 import docx
 from docx import Document
