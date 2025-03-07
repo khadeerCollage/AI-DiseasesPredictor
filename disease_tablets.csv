@@ -1,0 +1,45 @@
+Disease,Tablet_1,Tablet_2,Tablet_3,Tablet_4
+Common Cold,Paracetamol,Diphenhydramine,Chlorpheniramine,Pseudoephedrine
+Flu,Tamiflu (Oseltamivir),Relenza (Zanamivir),Paracetamol,Ibuprofen
+Pneumonia,Amoxicillin,Azithromycin,Clarithromycin,Levofloxacin
+Tuberculosis,Isoniazid,Rifampin,Ethambutol,Pyrazinamide
+Dengue,Paracetamol,Acetaminophen,Fluid supplements,
+Malaria,Chloroquine,Atovaquone-proguanil,Artemether-lumefantrine,Mefloquine
+Diabetes,Metformin,Glipizide,Glyburide,Acarbose
+Asthma,Salbutamol,Beclometasone,Montelukast,Theophylline
+Hypertension,Amlodipine,Lisinopril,Losartan,Hydrochlorothiazide
+Migraine,Sumatriptan,Rizatriptan,Propranolol,Topiramate
+Acne,Tetracycline,Minocycline,Isotretinoin,Clindamycin
+Arthritis,Ibuprofen,Naproxen,Celecoxib,Prednisone
+Fungal infection,Fluconazole,Terbinafine,Clotrimazole cream,Ketoconazole shampoo
+Allergy,Cetirizine,Loratadine,Fexofenadine,Corticosteroid cream
+GERD,Omeprazole,Pantoprazole,Ranitidine,Antacid
+Chronic cholestasis,Ursodeoxycholic acid,Cholestyramine,Anti-itch cream,Vitamin supplements
+Drug Reaction,Antihistamines,Corticosteroids,Epinephrine,Topical steroid cream
+Peptic ulcer disease,Omeprazole,Pantoprazole,Clarithromycin,Amoxicillin
+AIDS,Antiretroviral therapy,Tenofovir,Emtricitabine,Raltegravir
+Gastroenteritis,Ondansetron,Loperamide,ORS,Probiotics
+Bronchial Asthma,Salbutamol,Formoterol,Budesonide,Montelukast
+Hypertension,Amlodipine,Lisinopril,Hydrochlorothiazide,Metoprolol
+Cervical spondylosis,NSAIDs,Muscle relaxants,Gabapentin,Physiotherapy
+Paralysis (brain hemorrhage),Mannitol,Anticoagulants,Statins,Rehabilitation
+Jaundice,Ursodeoxycholic acid,Vitamin K,Liver supplements,Bed rest
+Hepatitis A,Paracetamol,Antiemetics,Hydration therapy,Rest
+Hepatitis B,Tenofovir,Entecavir,Lamivudine,Interferon alpha
+Hepatitis C,Sofosbuvir,Ledipasvir,Ribavirin,Interferon
+Hepatitis D,Pegylated interferon-alpha,Supportive care,Liver function monitoring,Hydration
+Hepatitis E,Ribavirin,Supportive care,Hydration,Rest
+Alcoholic hepatitis,Corticosteroids,Pentoxifylline,Vitamin supplements,Nutrition therapy
+Varicose veins,Daflon,Aspirin,Compression stockings,Sclerotherapy
+Heart attack,Aspirin,Clopidogrel,Statins,Beta blockers
+Chicken pox,Acyclovir,Antihistamines,Calamine lotion,Paracetamol
+Psoriasis,Methotrexate,Cyclosporine,Corticosteroid cream,Calcipotriene cream
+Typhoid,Ciprofloxacin,Ceftriaxone,Azithromycin,Antipyretics
+Urinary tract infection,Nitrofurantoin,Trimethoprim-sulfamethoxazole,Ciprofloxacin,Phenazopyridine
+Dimorphic hemorrhoids,Hydrocortisone cream,Pramoxine cream,Fiber supplements,Stool softeners
+Osteoarthritis,Acetaminophen,NSAIDs,Duloxetine,Intra-articular steroid injection
+Vertigo,Betahistine,Prochlorperazine,Diazepam,Meclizine
+Hypoglycemia,Glucose tablets,Glucagon injection,Dextrose solution,Proper nutrition
+Hyperthyroidism,Methimazole,Propylthiouracil,Beta blockers,Radioactive iodine
+Hypothyroidism,Levothyroxine,Liothyronine,Thyroid supplements,Selenium supplements
+Impetigo,Mupirocin ointment,Fusidic acid cream,Flucloxacillin,Cephalexin
